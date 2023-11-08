@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/angel/static/css/main.33d82daa.css",
+    "main.js": "/angel/static/js/main.43214144.js",
+    "static/js/787.d4aba7ab.chunk.js": "/angel/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/angel/index.html",
+    "main.33d82daa.css.map": "/angel/static/css/main.33d82daa.css.map",
+    "main.43214144.js.map": "/angel/static/js/main.43214144.js.map",
+    "787.d4aba7ab.chunk.js.map": "/angel/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33d82daa.css",
+    "static/js/main.43214144.js"
+  ]
+}
